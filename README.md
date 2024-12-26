@@ -61,7 +61,7 @@ To install and set up the project, follow these steps:
 
 - [x] Define project scope and requirements
 - [x] Set up GitHub repository
-- [ ] Configure GitHub Actions for CI/CD
+- [x] Configure GitHub Actions for CI/CD
 - [x] Set up development environment with Docker
 
 ### Phase 2: Core Development
