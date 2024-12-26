@@ -29,15 +29,17 @@ To install and set up the project, follow these steps:
     cd base-api
     ```
 
-2. Set up the development environment with Docker:
+2. Install Docker by following the instructions [here](https://docs.docker.com/get-docker/).
+
+3. Set up the development environment with Docker:
 
     ```sh
-    docker-compose up -d
+    docker-compose up
     ```
 
-3. Access the API at `http://localhost:8080`.
+4. Access the API at `http://localhost:8080`.
 
-4. Use tools like Postman or curl to interact with the API endpoints.
+5. Use tools like Postman or curl to interact with the API endpoints.
 
 ## 🚀 Deployment
 
@@ -57,10 +59,10 @@ To install and set up the project, follow these steps:
 
 ### Phase 1: Planning and Setup
 
-- [ ] Define project scope and requirements
-- [ ] Set up GitHub repository
+- [x] Define project scope and requirements
+- [x] Set up GitHub repository
 - [ ] Configure GitHub Actions for CI/CD
-- [ ] Set up development environment with Docker
+- [x] Set up development environment with Docker
 
 ### Phase 2: Core Development
 
